@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:51:58.714550
+#+DATE: 2015-08-30 21:51:59.756642
 #+TITLE: 紫竹林顓愚衡和尚語錄
 #+PROPERTY: CBETA_ID J28nB219
 #+PROPERTY: ID KR6q0433
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 28, No. B219
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS X
 #+PROPERTY: LASTPB <pb:KR6q0433_J_002-0662b> 
 #+PROPERTY: JUAN 2
-
- 紫竹林顓愚衡和尚語錄卷第二¶
+紫竹林顓愚衡和尚語錄卷第二¶
 住南康府同安寺嗣法門人正印重編¶
 
-法語一¶
+法語¶
 
 示桂輪洪禪人¶
 
@@ -174,7 +173,7 @@
 看他在甚麼處安立身從何來終歸何所心從何有¶
 終成何物看來看去忽然看破方知此事不從人得¶
 那時不但無身心可得盡虛空界無芥子許佛法知¶
-見而與子作障礙盡十方界是自己個面孔隨自己
+見而與子作障礙盡十方界是自已個面孔隨自己
 <pb:KR6q0433_J_002-0664a>¶
 開也好合也好將三十二相作乾屎橛也好將乾屎¶
 橛作三十二相也好豈不暢快平生而知見又奚能¶
